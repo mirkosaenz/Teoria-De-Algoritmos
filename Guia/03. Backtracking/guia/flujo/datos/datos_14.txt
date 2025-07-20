@@ -1,0 +1,6 @@
+p1,c1,pp1
+p2,c2-c3,pp1
+p3,c1-c4,pp2
+p4,c4-c5,pp2
+p5,c4-c2,pp3
+p6,c5,pp3
